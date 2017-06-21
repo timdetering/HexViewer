@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hex Viewer Control", "Hex Viewer Control\Hex Viewer Control.csproj", "{CDD54E13-C6AB-4001-AE89-0F907AB49694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controls TestPad", "Controls TestPad\Controls TestPad.csproj", "{EF8BFE43-3088-4E57-BF91-BD30F0B76265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD54E13-C6AB-4001-AE89-0F907AB49694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD54E13-C6AB-4001-AE89-0F907AB49694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD54E13-C6AB-4001-AE89-0F907AB49694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD54E13-C6AB-4001-AE89-0F907AB49694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF8BFE43-3088-4E57-BF91-BD30F0B76265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8BFE43-3088-4E57-BF91-BD30F0B76265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8BFE43-3088-4E57-BF91-BD30F0B76265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8BFE43-3088-4E57-BF91-BD30F0B76265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
