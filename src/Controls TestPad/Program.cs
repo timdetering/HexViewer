@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace Controls_TestPad
+namespace MAAK.Controls.TestPad
 {
     static class Program
     {

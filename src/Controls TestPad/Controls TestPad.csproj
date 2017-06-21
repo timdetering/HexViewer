@@ -7,8 +7,8 @@
     <ProjectGuid>{EF8BFE43-3088-4E57-BF91-BD30F0B76265}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Controls_TestPad</RootNamespace>
-    <AssemblyName>Controls TestPad</AssemblyName>
+    <RootNamespace>MAAK.Controls.TestPad</RootNamespace>
+    <AssemblyName>MAAK.Controls.TestPad</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileUpgradeFlags>
     </FileUpgradeFlags>

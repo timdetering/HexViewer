@@ -7,8 +7,8 @@
     <ProjectGuid>{CDD54E13-C6AB-4001-AE89-0F907AB49694}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Hex_Viewer_Control</RootNamespace>
-    <AssemblyName>Hex Viewer Control</AssemblyName>
+    <RootNamespace>MAAK.Controls</RootNamespace>
+    <AssemblyName>MAAK.Controls</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileUpgradeFlags>
     </FileUpgradeFlags>

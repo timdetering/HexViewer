@@ -1,4 +1,4 @@
-namespace Controls_TestPad
+namespace MAAK.Controls.TestPad
 {
     partial class MainForm
     {

@@ -1,9 +1,8 @@
 using System;
 using System.IO;
 using System.Windows.Forms;
-using MAAK.Controls;
 
-namespace Controls_TestPad
+namespace MAAK.Controls.TestPad
 {
 
     interface IGuiControlTestPad<_ControlType>
